@@ -8,3 +8,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=valorexies&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=valorexies&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=valorexies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=valorexies.valorexies" alt="visitor badge"/>
+</div>
